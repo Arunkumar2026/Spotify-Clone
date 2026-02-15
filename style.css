@@ -71,7 +71,9 @@ nav ul li{
     width: 80vw;
     text-align: center;
 }
-
+.songItemContainer{
+    /* margin-top: 30px; */
+}
 .songItem{
     height: 50px;
     display: flex;
@@ -91,6 +93,7 @@ nav ul li{
 }
 .timestamp{
     margin: 0 23px;
+}
+.timestamp i{
     cursor: pointer;
 }
-
