@@ -72,9 +72,7 @@ nav ul li{
     text-align: center;
     cursor: pointer;
 }
-.songItemContainer{
-    /* margin-top: 30px; */
-}
+
 .songItem{
     height: 50px;
     display: flex;
